@@ -1,4 +1,4 @@
-%Wireless Channel comparison using fading channels(BPSK modulation)
+%Wireless Channel comparison using fading channel(BPSK modulation)
 % Computing BER for BPSK modulation in a Rayleigh fading channel
 clear; close all; clc; tic;
 n = 10^6; % number of bits or symbols
