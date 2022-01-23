@@ -1,3 +1,4 @@
+%Wireless Channel comparison using fading channels(BPSK modulation)
 % Computing BER for BPSK modulation in a Rician fading channel
 clear; close all; clc; tic;
 n=10^6;%no of samples or bits 
