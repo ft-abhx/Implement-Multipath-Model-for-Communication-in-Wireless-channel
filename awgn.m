@@ -1,5 +1,5 @@
 %Wireless Channel comparison using fading channels(BPSK modulation)
-%Computing BER for BPSK modulation in a AWGN channel;
+%Computing BER for BPSK modulation in a AWGN channel
 clear; close all; clc; tic;
 n=10^6;% numBER of samples or bits 
 bits=randn(1,n)>0.5;%  enerating 0,1 with equal probability
