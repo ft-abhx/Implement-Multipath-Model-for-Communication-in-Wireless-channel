@@ -11,10 +11,8 @@ channels.
 
 
 ## Simualation Table and Observations
-This section we present and evaluate the results using the Matlab. The results are used
-the ratio of signal energy per bit to noise power density SNR(𝐸𝑏/𝑁0) and bit error rate
-BER to evaluate and analyse the performance of BPSK over AWGN, Rician, and
-Rayleigh fading channels.
+This section we present and evaluate the results using the Matlab. The results are used the ratio of signal energy per bit to noise power density SNR(𝐸𝑏/𝑁0) and bit error rate
+BER to evaluate and analyse the performance of BPSK over AWGN, Rician, and Rayleigh fading channels.
 
 | BER in AWGN  | BER in RICIAN | BER in RAYLEIGH |
 | ------------- | ------------- |------------- |
